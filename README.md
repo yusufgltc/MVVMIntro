@@ -1,4 +1,4 @@
-# MVVMIntro
+# MVVM Note App
 Model-View-ViewModel (MVVM) is a software design pattern that is structured to separate program logic and user interface controls
 MVVM structure pattern commanly uses at industry.  
 
